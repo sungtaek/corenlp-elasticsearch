@@ -1,0 +1,64 @@
+// contraction
+i'm => i am
+i'(ll|d) => i will
+i've => i have
+you're => you are
+you'll => you will
+you've => you have
+he'(ll|d) => he will
+he's => he is
+she's => she is
+she'(ll|d) => she will
+aren't => are not
+isn't => is not
+weren't => were not
+wasn't => was not
+(can|couldn)'t => can not
+(didn|doesn|don)'t => do not
+(hadn|hasn|haven)'t => have not
+let's => let us
+mightn't => may not
+mustn't => must not
+(shouldn|shan)'t => shall not
+that's => that is
+there's => there is
+they'(ll|d) => they will
+they're => they are
+they've => they have
+we'(ll|d) => we will
+we're => we are
+how's => how is
+how're => how are
+what'll => what will
+what's => what is
+what're => what are
+where's => where is
+where're => where are
+where'd => where do
+who'(ll|d) => who will
+who's => who is
+who're => who are
+who've => who have
+(won|wouldn)'t => will not
+
+// abbreviation
+as soon as possible => asap
+sis => sister
+bro => brother
+bros => brother
+jk => joke
+jokes => joke
+gimme => give me
+gotta => get to
+wanna => want to
+
+// same meaning
+ouch => ow
+(very|super|really|quite) => so
+(mobilephone|smartphone) => phone
+
+// demonstrative pronoun
+(that|these|those) => this
+
+// a, an
+an => a
